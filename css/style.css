@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     margin: 0;
 }
@@ -28,4 +33,7 @@ section:hover .overlay{
 .text{
     font-size: 2em;
     color: #ffffff;
+}
+img{
+    display: block;
 }
